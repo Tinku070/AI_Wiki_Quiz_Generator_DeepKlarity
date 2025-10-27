@@ -1,0 +1,32 @@
+# fastapi
+# uvicorn[standard]
+# pydantic
+# requests
+# beautifulsoup4
+# psycopg2-binary  # For PostgreSQL
+# sqlalchemy
+# python-dotenv
+# langchain
+# google-genai # Or whatever LLM provider package you choose
+
+# fastapi
+# uvicorn[standard]
+# pydantic
+# requests
+# beautifulsoup4
+# psycopg2-binary
+# sqlalchemy
+# python-dotenv
+# langchain
+# google-genai
+# # NEW: Install python-multipart if it wasn't already for middleware dependencies
+# python-multipart
+
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+requests
+beautifulsoup4
+langchain
+openai
